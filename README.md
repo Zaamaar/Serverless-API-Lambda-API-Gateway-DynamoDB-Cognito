@@ -200,7 +200,7 @@ This is an architecture diagram — the implementation is the next step:
 
 ## Related Articles
 
-- **This architecture — design breakdown:** [paste Medium link]
+- **This architecture — design breakdown:** https://medium.com/@ayotomiwavictor1/designing-a-production-grade-serverless-api-on-aws-lambda-api-gateway-dynamodb-and-cognito-938205052a24
 - **ZamWeather — live 3-tier deployment:** https://medium.com/@ayotomiwavictor1/building-a-secure-globally-accelerated-3-tier-web-architecture-on-aws-49b23c180173
 - **3-tier architecture design:** https://medium.com/@ayotomiwavictor1/building-a-secure-globally-accelerated-3-tier-web-architecture-on-aws-49b23c180173
 
