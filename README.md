@@ -16,7 +16,8 @@ Each diagram covers a different pattern, touches different AWS services, and inc
 
 ## 01 - Production-grade serverless API
 
-![Serverless API Architecture](01-serverless-api/diagram.png)
+<img width="1251" height="556" alt="Screen Shot 2026-03-30 at 12 10 59 PM" src="https://github.com/user-attachments/assets/3322f50b-d5d7-4253-9379-3d9ac8dfe701" />
+
 
 **Medium article:** [The One Thing Missing From Most Serverless API Diagrams](https://medium.com/@ayotomiwavictor1/the-one-thing-missing-from-most-serverless-api-diagrams-ff3bf43dd0ea)
 
